@@ -30,4 +30,8 @@ git pull origin master >>> master my local git origin online git
 git remote set-url origin <token>@github.com/username/repoName
 git push origin main
 
+>>> create and swich to new branch
+git switch -c navbar
+>>>>> Show all branches in local and master
+ git branch -a
 
