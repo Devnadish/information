@@ -36,4 +36,8 @@ git switch -c navbar
  git branch -a
  >>>>> to link github branch with local navbar branch
  git push --set-upstream origin navbar
+>>>>>>>>>>>
+to ignore miss histories >>>
+
+ git pull origin main --allow-unrelated-histories
 
