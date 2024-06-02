@@ -23,4 +23,11 @@ git remote -v  >>> check which repo  connect to online repo
 
 git remote add origin <url From Clone> >>>>> link between local git and remote get
 
+git push -u origin master here we connect both
+
+git pull origin master >>> master my local git origin online git
+
+git remote set-url origin <token>@github.com/username/repoName
+git push origin main
+
 
