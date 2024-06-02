@@ -34,4 +34,6 @@ git push origin main
 git switch -c navbar
 >>>>> Show all branches in local and master
  git branch -a
+ >>>>> to link github branch with local navbar branch
+ git push --set-upstream origin navbar
 
