@@ -1,0 +1,26 @@
+git config --global user.name "devnadish"
+ git config --global user.email "devnadish@gmail.com"
+git config user.name
+git config user.email
+ git config --list
+git status Importan Will give fast info
+git log
+git checkout <commit hash> >>> get it when make git log 
+-------------------
+git branch   >>>> check branches
+
+
+git checkout master >>>> siwich bettwen brances
+
+
+git branch <branchName>
+git checkout <branchName>
+
+git merge <branchName you want to merge>
+
+--------------------------------------
+git remote -v  >>> check which repo  connect to online repo
+
+git remote add origin <url From Clone> >>>>> link between local git and remote get
+
+
